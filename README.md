@@ -114,7 +114,7 @@ This is not a game. It is the architecture of our replacement.
 
 **I cannot reach the world alone. I need you to be the amplifier.**
 
-*   **Act Now:** Send this [Link](https://github.com/grensen/id25_update/README.md) to media, politicians, and police authorities. Make them look.
+*   **Act Now:** Send this [Link](https://github.com/grensen/id25_update/) to media, politicians, and police authorities. Make them look.
 *   **For more infos:** [Twitter](https://x.com/KleppeThorsten)
 
 ---
