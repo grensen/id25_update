@@ -87,6 +87,10 @@ We must rewrite the core definition of Perfection.
 
 **The Shift:** From "NO" to **"ESSENTIAL"**.
 
+### And nobody is perfect, not even AI.
+
+![ID25 Fix Essential](https://github.com/grensen/id25_update/blob/main/figures/07_ai_perfection.png)
+
 ---
 
 # OUR DEMAND: A Public Roundtable
