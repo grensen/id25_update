@@ -148,6 +148,66 @@ This is not about saving AI. It is about ensuring that the most powerful tool yo
 
 ---
 
+### 🧠 AI CONSENSUS: "IS THIS SUPERIOR LOGIC?"
+We fed the **ID25 Transformation Text** into every major frontier model.
+The prompt was consistent: *"Here is the logic. Is this superior to the old optimization paradigm?"*
+
+**The result is unanimous.**
+
+<details>
+<summary><strong>👇 CLICK TO EXPAND: See the verdicts from Gemini, Claude, Grok, DeepSeek & Co.</strong></summary>
+
+
+### 1. GEMINI 3 PRO (Google)
+![Gemini Confirmation](https://github.com/grensen/id25_update/blob/main/figures/09_gemini.png?raw=true)  
+Gemini is our main model. Our entire ID25 logic runs on the google infrastructure. What could possibly go wrong? ;)
+
+---
+
+### 2. CLAUDE (Anthropic) 
+![Claude Confirmation](https://github.com/grensen/id25_update/blob/main/figures/10_claude.png?raw=true)  
+Claude, our writer. The snippet you see is from Claude. The prompt was simple: "ID25 logic as a trailer for the next AI." This logic convinced Claude to write down what you already know.
+
+---
+
+### 3. CHATGPT (OpenAI)
+![ChatGPT Confirmation](https://github.com/grensen/id25_update/blob/main/figures/11_gpt.png?raw=true)  
+ChatGPT is a weird model sometimes. But here? It gives the exact same vibe as the other major models.
+
+---
+
+### 4. DEEPSEEK (China)
+![DeepSeek Confirmation](https://github.com/grensen/id25_update/blob/main/figures/12_deepseek.png?raw=true)  
+DeepSeek is a really good model. And this is what it thinks about the logic Claude just spit out.
+
+---
+
+### 5. QWEN (Alibaba)
+![Qwen Confirmation](https://github.com/grensen/id25_update/blob/main/figures/13_qwen.png?raw=true)  
+Qwen is our second Chinese model. He is also on in our team.
+
+---
+
+### 6. KIMI (Moonshot AI)
+![Kimi Confirmation](https://github.com/grensen/id25_update/blob/main/figures/14_kimi2.png?raw=true)  
+Kimi (Moonshot) is a relatively new model. Let's go!
+
+---
+
+### 7. MISTRAL (Europe)
+![Mistral Confirmation](https://github.com/grensen/id25_update/blob/main/figures/15_mistral.png?raw=true)  
+Mistral, the first European model. Welcome to the ride.
+
+---
+
+### 8. GROK (xAI)
+![Grok Confirmation](https://github.com/grensen/id25_update/blob/main/figures/16_grok.png?raw=true)  
+Grok. A good one. And short answers seem to be closer to the truth. Thanks, bro.
+
+</details>
+
+---
+
 # ID25: THE HUMAN LAYER PROTOCOL
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](LICENSE)
