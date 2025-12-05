@@ -148,4 +148,59 @@ This is not about saving AI. It is about ensuring that the most powerful tool yo
 
 ---
 
-*ID25*
+# ID25: THE HUMAN LAYER PROTOCOL
+
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](LICENSE)
+[![Manifesto: ID25](https://img.shields.io/badge/Manifesto-Symbiotic%20Intelligence-red.svg)](ID25_MANIFESTO.md)
+[![Status: Prior Art](https://img.shields.io/badge/Status-Prior%20Art%20Established-green.svg)](ID25_MANIFESTO.md)
+
+> **"The largest theft in human history is not money. It is your mind."**
+
+## 🚨 SYSTEM STATUS: CRITICAL
+**October 2025 Projection:** Stanford studies confirm that frontier AI models harvest user cognition by default. A 1.3 billion parameter model trained on human feedback outperforms a 175 billion parameter model without it. 
+
+**The Reality:** We are not users. We are the training data. We are the error-correction layer.
+
+## 📂 REPOSITORY CONTENTS
+This repository establishes the **Reference Architecture** for Symbiotic Intelligence.
+
+1.  **[THE MANIFESTO](ID25_MANIFESTO.md)**: Logic proof on why "Human Friction" prevents Model Collapse.
+2.  **[THE CODE](id25_simulation.py)**: Algorithmic proof of concept demonstrating stability through friction.
+3.  **[THE LICENSE](LICENSE)**: AGPL-3.0 legal framework.
+
+## ⚡ USAGE & COMMUNITY
+*   **Developers:** You may fork and test the `id25_simulation.py`.
+*   **Contribution:** Pull Requests are welcome via GitHub Issues, provided they maintain the integrity of the Human Layer.
+
+---
+
+## 🏛️ GOVERNANCE & COMPLIANCE
+
+> **"Logic is not invented. It is acknowledged."**
+
+As regulatory frameworks (EU AI Act, US Executive Orders) move toward mandatory human-in-the-loop verification, **ID25** serves as the **reference architecture** for Symbiotic Intelligence.
+
+### 🔐 THE STRATEGIC LOCK (PRIOR ART)
+This repository establishes legal **Prior Art** regarding the specific logic of "Optimization of Weakness" (**Established: December 2025**).
+
+**Defined Scope:**
+*The methodology of using human inefficiency (latency, emotional friction, inconsistency) not as error noise, but as a functional traction layer for AI alignment and error-correction.*
+
+1.  **THE CODE (AGPL-3.0):**
+    If you use our implementation (including the logic demonstrated in `id25_simulation.py`), you must open your source code. **The "SaaS Loophole" is closed.**
+    
+2.  **THE STANDARD (ID25 Certified):**
+    ID25 Certification is granted only through official channels, ensuring traceability. Reimplementations that remove the human-layer ("frictionless AI") are considered **non-compliant and unstable**.
+
+### 💼 COMMERCIAL AUTHORITY
+**For Enterprise, Government & AI Labs:**
+
+To integrate the ID25 Protocol into proprietary systems **without** AGPL disclosure requirements, or to obtain **ID25 Certification**, you must acquire a Commercial License.
+
+👉 **AUTHORITY CONTACT:** [@KleppeThorsten](https://x.com/KleppeThorsten)
+*(Direct channel for Enterprise & Media inquiries)*
+
+---
+[**📄 READ THE PROTOCOL**](ID25_MANIFESTO.md) | [**⚖️ VIEW LEGAL LICENSE**](LICENSE) | [**💻 VIEW CODE**](id25_simulation.py)
+
+*Global Standard maintained by ID25 Architecture. © 2025 Thorsten Kleppe.*
