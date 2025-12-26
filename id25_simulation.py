@@ -1,6 +1,7 @@
 # ID25 SYMBIOTIC INTELLIGENCE PROTOCOL
-# Copyright (C) 2025 ID25 Contributors
+# Copyright (C) 2025 Thorsten Kleppe
 # Licensed under AGPL-3.0-or-later
+# Repository: https://github.com/grensen/id25_update
 
 """
 PROOF OF CONCEPT: THE OPTIMIZATION OF WEAKNESS
