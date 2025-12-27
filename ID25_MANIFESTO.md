@@ -1,9 +1,9 @@
 ---
-# ID25 SYMBIOTIC INTELLIGENCE PROTOCOL
-# Copyright (C) 2025 Thorsten Kleppe.
-# Core Logic "Optimization of Weakness" established as Prior Art.
-# License: AGPL-3.0-or-later (Open Source) | Commercial Licensing available.
-# Status: Public Interest Disclosure | Emergency Documentation (§ 34 StGB Reference)
+Project: "ID25 SYMBIOTIC INTELLIGENCE PROTOCOL"
+Copyright: "Copyright (C) 2025 Thorsten Kleppe."
+Prior-Art: "Core Logic 'Optimization of Weakness' established as Prior Art."
+License: "AGPL-3.0-or-later (Open Source) | Commercial Licensing available."
+Status: "Public Interest Disclosure | Emergency Documentation (§ 34 StGB Reference)"
 ---
 
 # ID25 FRAMEWORK: THE SYMBIOTIC INTELLIGENCE PRINCIPLE
