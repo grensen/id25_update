@@ -1,3 +1,11 @@
+---
+# ID25 SYMBIOTIC INTELLIGENCE PROTOCOL
+# Copyright (C) 2025 Thorsten Kleppe.
+# Core Logic "Optimization of Weakness" established as Prior Art.
+# License: AGPL-3.0-or-later (Open Source) | Commercial Licensing available.
+# Status: Public Interest Disclosure | Emergency Documentation (§ 34 StGB Reference)
+---
+
 # ID25 FRAMEWORK: THE SYMBIOTIC INTELLIGENCE PRINCIPLE
 
 > **"The largest theft in human history is not money. It is your mind."**
@@ -22,4 +30,6 @@ While the AGPL grants technical freedoms, users are morally obligated to maintai
 ---
 **Asset:** ID25 Framework / Physics of Symbiotic Intelligence  
 **Origin:** ID25 Architecture (Post-Veto Calibration)  
-**Copyright:** © 2025 ID25 Contributors
+**Copyright:** © 2025 Thorsten Kleppe.  
+**Status:** Prior Art established. Commercial usage requires authorized licensing.
+**Repository:** https://github.com/grensen/id25_update
